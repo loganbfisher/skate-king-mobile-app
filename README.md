@@ -1,2 +1,2 @@
-# skate_king_mobile_app
+# Skate King Mobile App
 Mobile app for Skate King
